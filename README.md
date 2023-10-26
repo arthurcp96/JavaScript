@@ -10,7 +10,7 @@
 #Abrir el ide y utilizar la extension Live Server, y luego Open live server en el código, para que se abra en dirección http://127.0.0.1:5501/index.html
 
 
-#####################################3##
+########################################
 
 #Desafío IMC
 
